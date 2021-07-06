@@ -47,11 +47,13 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/404) (SupportDocs Integrated File) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/Mind-Design_FAQ1/404.md))
+- [Address a topic you want addressed](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/mds/address_specific_topic) (address) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/mds/address_specific_topic.md))
 - [Apple smoothie](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/Sample-Smoothies/Apple) (smoothies) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/Sample-Smoothies/Apple.md))
 - [Blueberry smoothie](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/Sample-Smoothies/Blueberry) (smoothies) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/Sample-Smoothies/Blueberry.md))
 - [Buy blue boba](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/Sample-Boba/BuyBlueBoba) (boba) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/Sample-Boba/BuyBlueBoba.md))
 - [Buy cream boba](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/Sample-Boba/BuyCreamBoba) (boba) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/Sample-Boba/BuyCreamBoba.md))
 - [Buy orange boba](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/Sample-Boba/BuyOrangeBoba) (boba) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/Sample-Boba/BuyOrangeBoba.md))
+- [Get Involved](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/mds/getinvolved) (getinvolved) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/mds/getinvolved.md))
 - [How to cook pizza](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/Sample-FastFood/HowToCookPizza) (fastFood) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/Sample-FastFood/HowToCookPizza.md))
 - [How to eat burritos](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/Sample-FastFood/HowToEatBurritos) (fastFood) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/Sample-FastFood/HowToEatBurritos.md))
 - [How to eat grilled cheese](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/Sample-FastFood/HowToEatGrilledCheese) (fastFood) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/Sample-FastFood/HowToEatGrilledCheese.md))
@@ -59,9 +61,12 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [How to eat tacos](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/Sample-FastFood/HowToEatTacos) (fastFood) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/Sample-FastFood/HowToEatTacos.md))
 - [How to make spaghetti](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/Sample-FastFood/HowToMakeSpaghetti) (fastFood) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/Sample-FastFood/HowToMakeSpaghetti.md))
 - [How to prepare ramen](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/Sample-FastFood/HowToPrepareRamen) (fastFood) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/Sample-FastFood/HowToPrepareRamen.md))
+- [I want more one on one guidance. What should I do?](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/mds/moreguidance) (more) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/mds/moreguidance.md))
+- [Partner with Mind Design Sports](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/mds/partner) (partner) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/mds/partner.md))
 - [Peach smoothie](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/Sample-Smoothies/Peach.md))
 - [Plum smoothie](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/Sample-Smoothies/Plum.md))
 - [Red berry smoothie](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/Sample-Smoothies/RedBerries.md))
+- [Why utilize MDS?](https://Krish-sysadmin.github.io/Mind-Design_FAQ1/mds/addressing_competition) (why) ([edit](https://github.com/Krish-sysadmin/Mind-Design_FAQ1/edit/DataSource/mds/addressing_competition.md))
 
 
 ## Notes

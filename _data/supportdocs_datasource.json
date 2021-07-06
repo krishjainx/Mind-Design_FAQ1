@@ -103,5 +103,40 @@
         "tags": [
             "smoothies"
         ]
+    },
+    {
+        "title": "Address a topic you want addressed",
+        "url": "https://Krish-sysadmin.github.io/Mind-Design_FAQ1/mds/address_specific_topic",
+        "tags": [
+            "address"
+        ]
+    },
+    {
+        "title": "Why utilize MDS?",
+        "url": "https://Krish-sysadmin.github.io/Mind-Design_FAQ1/mds/addressing_competition",
+        "tags": [
+            "why"
+        ]
+    },
+    {
+        "title": "Get Involved",
+        "url": "https://Krish-sysadmin.github.io/Mind-Design_FAQ1/mds/getinvolved",
+        "tags": [
+            "getinvolved"
+        ]
+    },
+    {
+        "title": "I want more one on one guidance. What should I do?",
+        "url": "https://Krish-sysadmin.github.io/Mind-Design_FAQ1/mds/moreguidance",
+        "tags": [
+            "more"
+        ]
+    },
+    {
+        "title": "Partner with Mind Design Sports",
+        "url": "https://Krish-sysadmin.github.io/Mind-Design_FAQ1/mds/partner",
+        "tags": [
+            "partner"
+        ]
     }
 ]
